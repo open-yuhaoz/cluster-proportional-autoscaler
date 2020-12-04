@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM gcr.io/cpa/cluster-proportional-autoscaler-amd64:1.8.3
+FROM gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.8.3
 
 MAINTAINER Zihong Zheng <zihongz@google.com>
 
